@@ -9,4 +9,8 @@
 
 ## About Project
 
+- Laravel 6
+- Package Mqtt = https://github.com/php-mqtt/client
+- Package WebSocket = https://github.com/beyondcode/laravel-websockets
+
 This project just an experiment using protocol mqtt to connecting broker and using websocket to get realtime data.
